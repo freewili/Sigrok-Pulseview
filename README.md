@@ -1,3 +1,10 @@
+This repository contains windows installers for a pulseview fork with the FREE-WILi driver.
+- [Sigrok's git](https://github.com/sigrokproject)
+- [FREE-WILi Libsigrok Fork](https://github.com/Ytuf/libsigrok)
+
+The sigrok project aims at creating a portable, cross-platform,
+Free/Libre/Open-Source signal analysis software suite that supports various
+
 # Installation
 
 1. Execute the appropriate installer for your system. pulseview-installer-32.exe for 32-bit windows, pulseview-installer-64.exe for 64-bit windows.
@@ -60,3 +67,4 @@ Zadig is a utility for installing generic USB drivers such as WinUSB, libusb-win
 ---
 
 If you encounter any issues with detection or driver installation, please consult the PulseView documentation or reach out for support.
+
